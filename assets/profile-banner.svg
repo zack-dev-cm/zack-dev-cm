@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="272" viewBox="0 0 1200 272" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Zakhar Pashkin — Applied machine learning</title>
+  <desc id="desc">A dark navy banner with a restrained mint accent and an abstract model diagram.</desc>
+  <rect width="1200" height="272" rx="12" fill="#10282D"/>
+  <path d="M0 260H1200" stroke="#A8E6CC" stroke-width="24"/>
+  <g stroke="#A8E6CC" stroke-opacity=".12">
+    <path d="M874 0V248M938 0V248M1002 0V248M1066 0V248M1130 0V248M1194 0V248"/>
+    <path d="M846 32H1200M846 96H1200M846 160H1200M846 224H1200"/>
+  </g>
+  <text x="58" y="59" fill="#A8E6CC" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">APPLIED MACHINE LEARNING</text>
+  <text x="54" y="142" fill="#FAF9F3" font-family="Arial, Helvetica, sans-serif" font-size="65" font-weight="700" letter-spacing="-2">Zakhar Pashkin</text>
+  <text x="58" y="193" fill="#CAD9D5" font-family="Arial, Helvetica, sans-serif" font-size="23">Research, engineering, and useful AI products.</text>
+  <g stroke="#A8E6CC" stroke-width="1.6">
+    <path d="M898 65L997 112L1128 62M898 65L949 196L997 112L1128 191L1128 62M949 196L1128 191" stroke-opacity=".5"/>
+    <circle cx="898" cy="65" r="7" fill="#10282D"/>
+    <circle cx="949" cy="196" r="7" fill="#10282D"/>
+    <circle cx="1128" cy="62" r="7" fill="#10282D"/>
+    <circle cx="1128" cy="191" r="7" fill="#10282D"/>
+    <circle cx="997" cy="112" r="16" fill="#A8E6CC" stroke="none"/>
+  </g>
+</svg>
