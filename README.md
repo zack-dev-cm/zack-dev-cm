@@ -33,6 +33,12 @@ Built and maintain a nutrition service that helps people keep a food diary using
 | **CV Repro Lab** · Experiment tooling | Organize reproducible CV experiments across Colab, Kaggle and GPU VMs, with benchmarks and reviewable run artifacts. | [Source & examples](https://github.com/zack-dev-cm/agentic-cv-repro-lab-skill) |
 | **Artifact Redactor** · Python toolkit | Redact common sensitive text patterns from logs, Markdown and JSON, and flag unsupported files for manual review. | [Source & examples](https://github.com/zack-dev-cm/artifact-redactor) |
 
+## Research in progress
+
+**[LigninQC](https://zack-dev-cm.github.io/projects/ligninqc-reproducible-scientific-research-workflows/)** — Literature-discovery and evidence-audit tooling for computational lignin research, with source provenance and publication-version grouping.
+
+**[CAD analysis](https://zack-dev-cm.github.io/projects/engineering-drawing-cad-analysis/)** — Scan registration, CAD projection and drawing comparison, evaluated with controlled geometry and inspectable research artifacts.
+
 ## Tools I work with
 
 | Area | Stack |
