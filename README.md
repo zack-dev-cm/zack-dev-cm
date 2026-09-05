@@ -23,13 +23,13 @@ I'm a Senior ML Engineer in Riverstart's R&D ML team, working on document intell
 
 Built and maintain a nutrition service that helps people keep a food diary using meal photos, voice messages and text. My work covers multimodal recognition, the logging workflow, deployment and ongoing service improvements.
 
-[Try the bot](https://t.me/calorio_yf_bot) · [Engineering case study](https://zack-dev-cm.github.io/projects/dishes-recognition-nutrition-goals-telegram-bot/)
+[Try the bot](https://t.me/calorio_yf_bot) · [Engineering case study](https://zack-dev-cm.github.io/projects/calorio-ai-nutrition-service/)
 
 ## Open-source packages & tools
 
 | Project | What it helps you do | Links |
 | --- | --- | --- |
-| **Agnitra** · Python SDK & CLI | Profile PyTorch models, inspect runtime telemetry and compare optimization passes before export. Published on PyPI. | [PyPI](https://pypi.org/project/agnitra/) · [Overview](https://zack-dev-cm.github.io/projects/agnitra-ai-inference-optimizer/) |
+| **Agnitra** · Python SDK & CLI | Profile PyTorch models, inspect runtime telemetry and compare optimization passes before export. Published on PyPI. | [PyPI](https://pypi.org/project/agnitra/) · [Overview](https://zack-dev-cm.github.io/projects/agnitra-ml-profiling-optimization/) |
 | **CV Repro Lab** · Experiment tooling | Organize reproducible CV experiments across Colab, Kaggle and GPU VMs, with benchmarks and reviewable run artifacts. | [Source & examples](https://github.com/zack-dev-cm/agentic-cv-repro-lab-skill) |
 | **Artifact Redactor** · Python toolkit | Redact common sensitive text patterns from logs, Markdown and JSON, and flag unsupported files for manual review. | [Source & examples](https://github.com/zack-dev-cm/artifact-redactor) |
 
