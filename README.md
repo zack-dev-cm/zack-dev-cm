@@ -6,6 +6,20 @@
 
 I'm a Senior ML Engineer in **Riverstart's R&D ML team**, developing document intelligence and engineering-analysis workflows. My work connects models, evaluation and the software needed to use them. [Current work](https://zack-dev-cm.github.io/projects/riverstart-document-ai/)
 
+## Vehicle Lab · CAD to simulation
+
+**Built and released an engineering notebook connecting design intent, digital prototypes, revision decisions and recorded simulation.**
+
+[![Vehicle Lab: exploded CAD inspection of the RC25 digital prototype](assets/vehicle-lab-assembly-preview.gif)](https://zack-dev-cm.github.io/docs/vehicle-lab/watch.html)
+
+*Actual frames from the released film: component relationships in the CAD viewer.*
+
+I built the Python project CLI, portable manifest schema, interactive Three.js viewer and recorded-motion interface. Four CAD-derived vehicle studies connect geometry to engineering decisions; independent rover and linear-stage examples make the notebook reusable. Failed checks and the historical Project Chrono obstacle result stay with the revisions.
+
+[Explore in 3D](https://zack-dev-cm.github.io/docs/vehicle-lab/) · [Watch the 96-second film](https://zack-dev-cm.github.io/docs/vehicle-lab/watch.html) · [Engineering case study](https://zack-dev-cm.github.io/projects/vehicle-lab-a-reusable-engineering-notebook/) · [Source & v0.1.0 release](https://github.com/zack-dev-cm/vehicle-lab/releases/tag/v0.1.0)
+
+Experimental software release. Physical assembly and driving validation remain open.
+
 ## Packages & tools
 
 - **Agnitra** — Python SDK and CLI for model profiling, runtime telemetry and inference optimization. [PyPI release](https://pypi.org/project/agnitra/) · [Engineering notes](https://zack-dev-cm.github.io/projects/agnitra-ml-profiling-optimization/)
