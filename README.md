@@ -4,7 +4,7 @@
 
 [Portfolio](https://zack-dev-cm.github.io/) · [Resume (PDF)](https://zack-dev-cm.github.io/resume/zakhar-pashkin-senior-ml-engineer.pdf) · [LinkedIn](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/) · [Email](mailto:kaisenaiko@gmail.com)
 
-I'm a Senior ML Engineer in **Riverstart's R&D ML team**, developing document intelligence and engineering-analysis workflows. My work connects models, evaluation and the software needed to use them. [Current work](https://zack-dev-cm.github.io/projects/riverstart-document-ai/)
+I'm a Senior ML Engineer developing document intelligence and engineering-analysis workflows. My work connects models, evaluation and the software needed to use them. [Document AI](https://zack-dev-cm.github.io/projects/document-ai/)
 
 ## Packages & tools
 
