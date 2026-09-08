@@ -33,7 +33,7 @@ Built and maintain a service that helps people keep a food diary using meal phot
 ## Research in progress
 
 - **[LigninQC](https://zack-dev-cm.github.io/projects/ligninqc-reproducible-scientific-research-workflows/)** — Literature-discovery and evidence-audit tooling for computational lignin research, with source provenance and publication-version grouping.
-- **[Point clouds, CAD & drawings](https://zack-dev-cm.github.io/projects/engineering-drawing-cad-analysis/)** — Point-cloud reconstruction into semantic room geometry and 2D floor plans, plus separate mechanical CAD projection research. Inspect the synthetic-room input and generated plan.
+- **[Engineering analysis](https://zack-dev-cm.github.io/projects/engineering-drawing-cad-analysis/)** — Professional experience with computer vision for engineering drawings and 3D geometry; private company R&D.
 
 ## Tools I work with
 
