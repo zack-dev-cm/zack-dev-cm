@@ -53,5 +53,3 @@ Built and maintain a service that helps people keep a food diary using meal phot
 - **Models:** Python · PyTorch · OpenCV · OpenMMLab · ONNX Runtime
 - **Systems:** FastAPI · PostgreSQL · Qdrant · Docker · GCP · ClearML
 - **Mobile:** Flutter · Dart · C++
-
-Լավություն արա, ջուրը գցիր
