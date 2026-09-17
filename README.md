@@ -2,7 +2,7 @@
 
 **Senior ML Engineer | Computer Vision, Document AI & Agentic Systems**
 
-[Portfolio](https://zack-dev-cm.github.io/) · [Resume (PDF)](https://zack-dev-cm.github.io/resume/zakhar-pashkin-senior-ml-engineer.pdf) · [LinkedIn](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/) · [Email](mailto:kaisenaiko@gmail.com)
+[Portfolio](https://zack-dev-cm.github.io/) · [LinkedIn](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/) · [Email](mailto:kaisenaiko@gmail.com)
 
 ## Open-source contributions
 
