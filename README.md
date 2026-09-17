@@ -4,6 +4,19 @@
 
 [Portfolio](https://zack-dev-cm.github.io/) · [Resume (PDF)](https://zack-dev-cm.github.io/resume/zakhar-pashkin-senior-ml-engineer.pdf) · [LinkedIn](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/) · [Email](mailto:kaisenaiko@gmail.com)
 
+## Open-source contributions
+
+- **Neuralink · datarepo** — Prevents lost query rows and makes setup reproducible. **5 merged PRs** · [#68](https://github.com/neuralinkcorp/datarepo/pull/68) [#67](https://github.com/neuralinkcorp/datarepo/pull/67) [#57](https://github.com/neuralinkcorp/datarepo/pull/57) [#58](https://github.com/neuralinkcorp/datarepo/pull/58) [#59](https://github.com/neuralinkcorp/datarepo/pull/59)
+- **Tesla · Camera Kit** — Fixes Android scan accuracy, resource leaks and camera reuse. **4 open PRs** · [#812](https://github.com/teslamotors/react-native-camera-kit/pull/812) [#813](https://github.com/teslamotors/react-native-camera-kit/pull/813) [#817](https://github.com/teslamotors/react-native-camera-kit/pull/817) [#816](https://github.com/teslamotors/react-native-camera-kit/pull/816)
+- **UNSW · Nempy** — Corrects battery dispatch inputs and prevents Linux solver crashes. **2 open PRs** · [#43](https://github.com/UNSW-CEEM/nempy/pull/43) [#44](https://github.com/UNSW-CEEM/nempy/pull/44)
+- **pydicom · Pixel encoding** — Preserves one-bit image pixels during compression. **1 open PR; contributor branch** · [#1](https://github.com/asaraog/pydicom/pull/1)
+- **Unitree Robotics · Teleoperation & SDK** — Repairs teleoperation stop calls and documents DDS security. **2 open PRs** · [#310](https://github.com/unitreerobotics/xr_teleoperate/pull/310) [#34](https://github.com/unitreerobotics/unitree_sdk2/pull/34)
+- **OpenClaw · ClawPatch** — Fixes crawler access and adds website checks. **1 merged PR** · [#95](https://github.com/openclaw/clawpatch/pull/95)
+- **Keras · Examples** — Adds missing setup dependencies for a documentation example. **1 merged PR** · [#520](https://github.com/keras-team/keras-io/pull/520)
+- **Toloka · Python SDK** — Fixes the pool analytics code example. **1 merged PR** · [#55](https://github.com/Toloka/toloka-kit/pull/55)
+
+<sub>Independent open-source work · Status checked 17 September 2026.</sub>
+
 I'm a Senior ML Engineer developing document intelligence and engineering-analysis workflows. My work connects models, evaluation and the software needed to use them. [Document AI](https://zack-dev-cm.github.io/projects/document-ai/)
 
 ## Packages & tools
