@@ -15,7 +15,7 @@
 - **pydicom · Display & modality lookup tables** — Prevents integer overflow when mapping pixel values through display and modality lookup tables. **2 open PRs** · [#2378](https://github.com/pydicom/pydicom/pull/2378) [#2379](https://github.com/pydicom/pydicom/pull/2379) · [Playable display lookup](https://zack-dev-cm.github.io/docs/contribution-lab/pydicom.html)
 - **pydicom · Pixel encoding** — Preserves one-bit image pixels during compression. **1 open PR** · [#2380](https://github.com/pydicom/pydicom/pull/2380)
 - **Unitree Robotics · Teleoperation & SDK** — Repairs teleoperation stop calls and documents DDS security. **2 open PRs** · [#310](https://github.com/unitreerobotics/xr_teleoperate/pull/310) [#34](https://github.com/unitreerobotics/unitree_sdk2/pull/34)
-- **Open CLIP · CoCa example** — Makes the CoCa text-generation example call the correct model factory. **1 open PR** · [#2](https://github.com/lucidrains/open_clip/pull/2)
+- **Open CLIP · CoCa example in lucidrains’ fork** — Makes the CoCa text-generation example call the correct model factory. **1 open PR** · [#2](https://github.com/lucidrains/open_clip/pull/2)
 - **OpenClaw · ClawPatch** — Fixes crawler access and adds website checks. **1 merged PR** · [#95](https://github.com/openclaw/clawpatch/pull/95)
 - **Keras · Examples** — Adds missing setup dependencies for a documentation example. **1 merged PR** · [#520](https://github.com/keras-team/keras-io/pull/520)
 - **Toloka · Python SDK** — Fixes the pool analytics code example. **1 merged PR** · [#55](https://github.com/Toloka/toloka-kit/pull/55)
