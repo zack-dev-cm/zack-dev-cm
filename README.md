@@ -6,16 +6,16 @@
 
 ## Open-source contributions
 
-- **Neuralink · datarepo** — Preserves query results and literals, keeps refreshed credentials coherent and makes setup reproducible. **7 merged PRs** · [#73](https://github.com/neuralinkcorp/datarepo/pull/73) [#74](https://github.com/neuralinkcorp/datarepo/pull/74) [#68](https://github.com/neuralinkcorp/datarepo/pull/68) [#67](https://github.com/neuralinkcorp/datarepo/pull/67) [#57](https://github.com/neuralinkcorp/datarepo/pull/57) [#58](https://github.com/neuralinkcorp/datarepo/pull/58) [#59](https://github.com/neuralinkcorp/datarepo/pull/59)
-- **Tesla · Camera Kit** — Fixes Android scan accuracy, resource leaks and camera reuse. **4 open PRs** · [#812](https://github.com/teslamotors/react-native-camera-kit/pull/812) [#813](https://github.com/teslamotors/react-native-camera-kit/pull/813) [#817](https://github.com/teslamotors/react-native-camera-kit/pull/817) [#816](https://github.com/teslamotors/react-native-camera-kit/pull/816)
-- **Unidata · netCDF4** — Preserves array dimensions when scientific-data selections are empty. **1 merged PR** · [#1499](https://github.com/Unidata/netcdf4-python/pull/1499) · [Interactive shape lesson](https://zack-dev-cm.github.io/docs/contribution-lab/)
-- **Astropy · reproject** — Rejects undefined inverse coordinates so invalid sky-image pixels receive zero footprint. **1 open PR** · [#630](https://github.com/astropy/reproject/pull/630) · [Playable coordinate lesson](https://zack-dev-cm.github.io/docs/contribution-lab/reproject.html)
-- **LSST DESC · CCL** — Corrects the integration range and component quadrature used in cosmology calculations. **1 open PR** · [#1310](https://github.com/LSSTDESC/CCL/pull/1310)
-- **UNSW · Nempy** — Corrects battery dispatch inputs and prevents Linux solver crashes. **2 open PRs** · [#43](https://github.com/UNSW-CEEM/nempy/pull/43) [#44](https://github.com/UNSW-CEEM/nempy/pull/44)
-- **pydicom · Display & modality lookup tables** — Prevents integer overflow when mapping pixel values through display and modality lookup tables. **2 open PRs** · [#2378](https://github.com/pydicom/pydicom/pull/2378) [#2379](https://github.com/pydicom/pydicom/pull/2379) · [Playable display lookup](https://zack-dev-cm.github.io/docs/contribution-lab/pydicom.html)
-- **pydicom · Pixel encoding** — Preserves one-bit image pixels during compression. **1 open PR** · [#2380](https://github.com/pydicom/pydicom/pull/2380)
-- **Unitree Robotics · Teleoperation & SDK** — Repairs teleoperation stop calls and documents DDS security. **2 open PRs** · [#310](https://github.com/unitreerobotics/xr_teleoperate/pull/310) [#34](https://github.com/unitreerobotics/unitree_sdk2/pull/34)
-- **Open CLIP · CoCa example in lucidrains’ fork** — Makes the CoCa text-generation example call the correct model factory. **1 open PR** · [#2](https://github.com/lucidrains/open_clip/pull/2)
+- **Neuralink · datarepo** — Merged changes to query correctness, Python literals, credential refresh and packaging. **7 historical merges** · [#73](https://github.com/neuralinkcorp/datarepo/pull/73) [#74](https://github.com/neuralinkcorp/datarepo/pull/74) [#68](https://github.com/neuralinkcorp/datarepo/pull/68) [#67](https://github.com/neuralinkcorp/datarepo/pull/67) [#57](https://github.com/neuralinkcorp/datarepo/pull/57) [#58](https://github.com/neuralinkcorp/datarepo/pull/58) (later reverted) [#59](https://github.com/neuralinkcorp/datarepo/pull/59)
+- **Tesla · Camera Kit** — Proposed fixes for Android scan accuracy, resource leaks and camera reuse. **4 open PRs** · [#812](https://github.com/teslamotors/react-native-camera-kit/pull/812) [#813](https://github.com/teslamotors/react-native-camera-kit/pull/813) [#817](https://github.com/teslamotors/react-native-camera-kit/pull/817) [#816](https://github.com/teslamotors/react-native-camera-kit/pull/816)
+- **Unidata · netCDF4** — Merged fix for array dimensions when scientific-data selections are empty. **1 merged PR** · [#1499](https://github.com/Unidata/netcdf4-python/pull/1499) · [Interactive shape lesson](https://zack-dev-cm.github.io/docs/contribution-lab/)
+- **Astropy · reproject** — Proposes rejecting undefined inverse coordinates; solar-reference behavior remains under review. **1 open PR** · [#630](https://github.com/astropy/reproject/pull/630) · [Playable coordinate lesson](https://zack-dev-cm.github.io/docs/contribution-lab/reproject.html)
+- **LSST DESC · CCL** — Proposed FKEM integration-range and quadrature changes, pending numerical review. **1 open PR** · [#1310](https://github.com/LSSTDESC/CCL/pull/1310)
+- **UNSW · Nempy** — Proposed corrections to battery dispatch inputs and Linux solver compatibility. **2 open PRs** · [#43](https://github.com/UNSW-CEEM/nempy/pull/43) [#44](https://github.com/UNSW-CEEM/nempy/pull/44)
+- **pydicom · Display & modality lookup tables** — Proposed overflow fixes for display and modality lookup-table indexing. **2 open PRs** · [#2378](https://github.com/pydicom/pydicom/pull/2378) [#2379](https://github.com/pydicom/pydicom/pull/2379) · [Playable display lookup](https://zack-dev-cm.github.io/docs/contribution-lab/pydicom.html)
+- **pydicom · Pixel encoding** — Proposed preservation of one-bit image pixels during compression. **1 open PR** · [#2380](https://github.com/pydicom/pydicom/pull/2380)
+- **Unitree Robotics · Teleoperation & SDK** — Proposed teleoperation stop-call fix and DDS security documentation. **2 open PRs** · [#310](https://github.com/unitreerobotics/xr_teleoperate/pull/310) [#34](https://github.com/unitreerobotics/unitree_sdk2/pull/34)
+- **Open CLIP · CoCa example in lucidrains’ fork** — Proposes a corrected model-factory call in the CoCa text-generation example. **1 open PR** · [#2](https://github.com/lucidrains/open_clip/pull/2)
 - **OpenClaw · ClawPatch** — Fixes crawler access and adds website checks. **1 merged PR** · [#95](https://github.com/openclaw/clawpatch/pull/95)
 - **Keras · Examples** — Adds missing setup dependencies for a documentation example. **1 merged PR** · [#520](https://github.com/keras-team/keras-io/pull/520)
 - **Toloka · Python SDK** — Fixes the pool analytics code example. **1 merged PR** · [#55](https://github.com/Toloka/toloka-kit/pull/55)
@@ -30,7 +30,7 @@
 
 </details>
 
-<sub>Status checked 8 October 2026.</sub>
+<sub>Status checked 9 October 2026. Datarepo #73/#74 and netCDF4 #1499 are merged but absent from the latest published artifacts checked on this date.</sub>
 
 I work on computer vision, document intelligence and reproducible ML tools. Current R&D includes source-linked document review; Calorio is a maintained service. [Explore the work](https://zack-dev-cm.github.io/)
 
