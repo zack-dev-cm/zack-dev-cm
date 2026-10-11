@@ -1,6 +1,6 @@
 <img src="assets/profile-banner.svg" alt="Zakhar Pashkin — Applied machine learning" width="100%" />
 
-**ML engineer · computer vision, document AI & developer tools**
+**ML engineer · computer vision & document AI**
 
 [Portfolio](https://zack-dev-cm.github.io/) · [LinkedIn](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/) · [Email](mailto:kaisenaiko@gmail.com)
 
@@ -9,8 +9,8 @@
 - **Neuralink · datarepo** — Merged changes to query correctness, Python literals, credential refresh and packaging. **7 historical merges** · [#73](https://github.com/neuralinkcorp/datarepo/pull/73) [#74](https://github.com/neuralinkcorp/datarepo/pull/74) [#68](https://github.com/neuralinkcorp/datarepo/pull/68) [#67](https://github.com/neuralinkcorp/datarepo/pull/67) [#57](https://github.com/neuralinkcorp/datarepo/pull/57) [#58](https://github.com/neuralinkcorp/datarepo/pull/58) (reverted in [#72](https://github.com/neuralinkcorp/datarepo/pull/72)) [#59](https://github.com/neuralinkcorp/datarepo/pull/59)
 - **Tesla · Camera Kit** — Proposed fixes for Android scan accuracy, resource leaks and camera reuse. **4 open PRs** · [#812](https://github.com/teslamotors/react-native-camera-kit/pull/812) [#813](https://github.com/teslamotors/react-native-camera-kit/pull/813) [#817](https://github.com/teslamotors/react-native-camera-kit/pull/817) [#816](https://github.com/teslamotors/react-native-camera-kit/pull/816)
 - **Unidata · netCDF4** — Merged fix for array dimensions when scientific-data selections are empty. **1 merged PR** · [#1499](https://github.com/Unidata/netcdf4-python/pull/1499) · [Interactive shape lesson](https://zack-dev-cm.github.io/docs/contribution-lab/)
-- **Astropy · reproject** — Proposes rejecting undefined inverse coordinates; solar-reference behavior remains under review. **1 open PR** · [#630](https://github.com/astropy/reproject/pull/630) · [Playable coordinate lesson](https://zack-dev-cm.github.io/docs/contribution-lab/reproject.html)
-- **LSST DESC · CCL** — Proposed FKEM integration-range and quadrature changes, pending numerical review. **1 open PR** · [#1310](https://github.com/LSSTDESC/CCL/pull/1310)
+- **Astropy · reproject** — Proposed validation of inverse coordinates in image reprojection. **1 open PR** · [#630](https://github.com/astropy/reproject/pull/630) · [Playable coordinate lesson](https://zack-dev-cm.github.io/docs/contribution-lab/reproject.html)
+- **LSST DESC · CCL** — Proposed integration-range and quadrature fixes for cosmology calculations. **1 open PR** · [#1310](https://github.com/LSSTDESC/CCL/pull/1310)
 - **UNSW · Nempy** — Proposed corrections to battery dispatch inputs and Linux solver compatibility. **2 open PRs** · [#43](https://github.com/UNSW-CEEM/nempy/pull/43) [#44](https://github.com/UNSW-CEEM/nempy/pull/44)
 - **pydicom · Display & modality lookup tables** — Proposed overflow fixes for display and modality lookup-table indexing. **2 open PRs** · [#2378](https://github.com/pydicom/pydicom/pull/2378) [#2379](https://github.com/pydicom/pydicom/pull/2379) · [Playable display lookup](https://zack-dev-cm.github.io/docs/contribution-lab/pydicom.html)
 - **pydicom · Pixel encoding** — Proposed preservation of one-bit image pixels during compression. **1 open PR** · [#2380](https://github.com/pydicom/pydicom/pull/2380)
@@ -30,18 +30,7 @@
 
 </details>
 
-<sub>Status checked 11 October 2026. Datarepo #73/#74 and netCDF4 #1499 are merged but absent from the latest published artifacts checked on this date.</sub>
-
-I work on computer vision, document intelligence and reproducible ML tools. Current R&D includes source-linked document review; Calorio is a maintained service. [Explore the work](https://zack-dev-cm.github.io/)
-
-## Developer tools in review
-
-These are open drafts in my repositories, including a cookbook fork. Their tests cover the stated boundaries; the changes are not published releases.
-
-- **GitHub Repo Summarizer**: English, Arabic, Hebrew and Simplified Chinese popup text with right-to-left layouts. Seventeen locale fixture tests pass; actual installed-extension checks remain pending. [Draft #28](https://github.com/zack-dev-cm/github-repo-sum-chrome-plugin/pull/28)
-- **Tool Calls**: cancellation, reconnect and retry cleanup for the chat and voice playground. Fourteen lifecycle and six Worker tests pass; the authenticated voice and tool flow remains unverified. [Draft #43](https://github.com/zack-dev-cm/tool_calls/pull/43)
-- **Trusted ClawHub Install Gate**: bounded compile-call analysis that returns REVIEW when its work budget is exhausted. All 53 candidate tests pass; no registry release has been published. [Draft #1](https://github.com/zack-dev-cm/trusted-clawhub-install-gate/pull/1)
-- **Responses harness in a cookbook fork**: SDK contract fixes with 17 passing tests. The inherited MCP evaluator fails without credentials, and live provider/MCP acceptance remains pending. [Draft #3](https://github.com/zack-dev-cm/openai-cookbook/pull/3)
+I build computer vision and document AI systems, from model development to production software. [Explore the work](https://zack-dev-cm.github.io/)
 
 ## Packages & tools
 
