@@ -30,9 +30,18 @@
 
 </details>
 
-<sub>Status checked 9 October 2026. Datarepo #73/#74 and netCDF4 #1499 are merged but absent from the latest published artifacts checked on this date.</sub>
+<sub>Status checked 11 October 2026. Datarepo #73/#74 and netCDF4 #1499 are merged but absent from the latest published artifacts checked on this date.</sub>
 
 I work on computer vision, document intelligence and reproducible ML tools. Current R&D includes source-linked document review; Calorio is a maintained service. [Explore the work](https://zack-dev-cm.github.io/)
+
+## Developer tools in review
+
+These are open drafts in my repositories, including a cookbook fork. Their tests cover the stated boundaries; the changes are not published releases.
+
+- **GitHub Repo Summarizer**: English, Arabic, Hebrew and Simplified Chinese popup text with right-to-left layouts. Seventeen locale fixture tests pass; actual installed-extension checks remain pending. [Draft #28](https://github.com/zack-dev-cm/github-repo-sum-chrome-plugin/pull/28)
+- **Tool Calls**: cancellation, reconnect and retry cleanup for the chat and voice playground. Fourteen lifecycle and six Worker tests pass; the authenticated voice and tool flow remains unverified. [Draft #43](https://github.com/zack-dev-cm/tool_calls/pull/43)
+- **Trusted ClawHub Install Gate**: bounded compile-call analysis that returns REVIEW when its work budget is exhausted. All 53 candidate tests pass; no registry release has been published. [Draft #1](https://github.com/zack-dev-cm/trusted-clawhub-install-gate/pull/1)
+- **Responses harness in a cookbook fork**: SDK contract fixes with 17 passing tests. The inherited MCP evaluator fails without credentials, and live provider/MCP acceptance remains pending. [Draft #3](https://github.com/zack-dev-cm/openai-cookbook/pull/3)
 
 ## Packages & tools
 
