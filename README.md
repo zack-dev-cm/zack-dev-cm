@@ -14,7 +14,7 @@ The selected catalogue includes **17 merged PRs excluding one reverted change**,
 - **Unidata · netCDF4:** Fixed array dimensions when scientific-data selections are empty. [#1499](https://github.com/Unidata/netcdf4-python/pull/1499) · [Interactive shape lesson](https://zack-dev-cm.github.io/docs/contribution-lab/).
 - **pydicom · Pixel encoding:** Preserved packed one-bit pixels from big-endian OW input during compression. [#2380](https://github.com/pydicom/pydicom/pull/2380).
 
-Merged changes and published-package behaviour are separate milestones. The current release checks are documented in the [validation notes](https://zack-dev-cm.github.io/docs/oss-validation/).
+Merged changes and published-package behaviour are separate milestones. The installed `data-repository` 0.1.0 wheel still drops null predicates corrected in #57. The [delivery check](https://zack-dev-cm.github.io/docs/oss-validation/#delivery) covers generated SQL; no database queries ran.
 
 ## Open proposals
 
