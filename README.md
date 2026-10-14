@@ -13,7 +13,7 @@
 - **LSST DESC · CCL** — Proposed integration-range and quadrature fixes for cosmology calculations. **1 open PR** · [#1310](https://github.com/LSSTDESC/CCL/pull/1310)
 - **UNSW · Nempy** — Proposed corrections to battery dispatch inputs and Linux solver compatibility. **2 open PRs** · [#43](https://github.com/UNSW-CEEM/nempy/pull/43) [#44](https://github.com/UNSW-CEEM/nempy/pull/44)
 - **pydicom · Display & modality lookup tables** — Proposed overflow fixes for display and modality lookup-table indexing. **2 open PRs** · [#2378](https://github.com/pydicom/pydicom/pull/2378) [#2379](https://github.com/pydicom/pydicom/pull/2379) · [Playable display lookup](https://zack-dev-cm.github.io/docs/contribution-lab/pydicom.html)
-- **pydicom · Pixel encoding** — Proposed preservation of one-bit image pixels during compression. **1 open PR** · [#2380](https://github.com/pydicom/pydicom/pull/2380)
+- **pydicom · Pixel encoding** — Merged fix preserving packed one-bit pixels from big-endian OW input during compression. **1 merged PR** · [#2380](https://github.com/pydicom/pydicom/pull/2380)
 - **Unitree Robotics · Teleoperation & SDK** — Proposed teleoperation stop-call fix and DDS security documentation. **2 open PRs** · [#310](https://github.com/unitreerobotics/xr_teleoperate/pull/310) [#34](https://github.com/unitreerobotics/unitree_sdk2/pull/34)
 - **Open CLIP · CoCa example in lucidrains’ fork** — Proposes a corrected model-factory call in the CoCa text-generation example. **1 open PR** · [#2](https://github.com/lucidrains/open_clip/pull/2)
 - **OpenClaw · ClawPatch** — Fixes crawler access and adds website checks. **1 merged PR** · [#95](https://github.com/openclaw/clawpatch/pull/95)
