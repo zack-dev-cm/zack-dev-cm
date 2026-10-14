@@ -6,6 +6,8 @@ I build computer vision and document AI software, from model development to depl
 
 [Portfolio](https://zack-dev-cm.github.io/) · [LinkedIn](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/) · [Email](mailto:kaisenaiko@gmail.com)
 
+The selected catalogue includes **17 merged PRs excluding one reverted change**, plus **13 open proposals**. [Full catalogue](https://zack-dev-cm.github.io/#contributed-to) · [Status checked 14 October 2026](https://zack-dev-cm.github.io/docs/oss-validation/#status)
+
 ## Merged contributions
 
 - **Neuralink · datarepo:** Six merged fixes for query correctness, Python literals, credential refresh and packaging. [#73](https://github.com/neuralinkcorp/datarepo/pull/73) · [#74](https://github.com/neuralinkcorp/datarepo/pull/74) · [#68](https://github.com/neuralinkcorp/datarepo/pull/68) · [#67](https://github.com/neuralinkcorp/datarepo/pull/67) · [#57](https://github.com/neuralinkcorp/datarepo/pull/57) · [#59](https://github.com/neuralinkcorp/datarepo/pull/59). The documentation contribution [#58](https://github.com/neuralinkcorp/datarepo/pull/58) was reverted in [#72](https://github.com/neuralinkcorp/datarepo/pull/72).
@@ -15,6 +17,8 @@ I build computer vision and document AI software, from model development to depl
 Merged changes and published-package behaviour are separate milestones. The current release checks are documented in the [validation notes](https://zack-dev-cm.github.io/docs/oss-validation/).
 
 ## Open proposals
+
+At the 14 October review, four proposals had failed upstream workflows, four awaited workflow approval, two had successful workflows and three had no upstream workflow run recorded for their submitted commits. [Checks and next steps](https://zack-dev-cm.github.io/docs/oss-validation/#status).
 
 - **Tesla · Camera Kit**: Proposed fixes for Android scan accuracy, resource leaks and camera reuse. **4 open PRs** · [#812](https://github.com/teslamotors/react-native-camera-kit/pull/812) [#813](https://github.com/teslamotors/react-native-camera-kit/pull/813) [#817](https://github.com/teslamotors/react-native-camera-kit/pull/817) [#816](https://github.com/teslamotors/react-native-camera-kit/pull/816)
 - **Astropy · reproject**: Proposed validation of inverse coordinates in image reprojection. **1 open PR** · [#630](https://github.com/astropy/reproject/pull/630) · [Playable coordinate lesson](https://zack-dev-cm.github.io/docs/contribution-lab/reproject.html)
