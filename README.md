@@ -6,7 +6,7 @@ I build computer vision and document AI software, from model development to depl
 
 [Portfolio](https://zack-dev-cm.github.io/) · [LinkedIn](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/) · [Email](mailto:kaisenaiko@gmail.com)
 
-The selected catalogue includes **17 merged PRs excluding one reverted change**, plus **13 open proposals**. [Full catalogue](https://zack-dev-cm.github.io/#contributed-to) · [Status checked 14 October 2026](https://zack-dev-cm.github.io/docs/oss-validation/#status)
+The selected catalogue includes **17 merged PRs excluding one reverted change**, plus **13 open proposals**. [Full catalogue](https://zack-dev-cm.github.io/#contributed-to)
 
 ## Merged contributions
 
@@ -14,11 +14,7 @@ The selected catalogue includes **17 merged PRs excluding one reverted change**,
 - **Unidata · netCDF4:** Fixed array dimensions when scientific-data selections are empty. [#1499](https://github.com/Unidata/netcdf4-python/pull/1499) · [Interactive shape lesson](https://zack-dev-cm.github.io/docs/contribution-lab/).
 - **pydicom · Pixel encoding:** Preserved packed one-bit pixels from big-endian OW input during compression. [#2380](https://github.com/pydicom/pydicom/pull/2380).
 
-Merged changes and published-package behaviour are separate milestones. The installed `data-repository` 0.1.0 wheel still drops null predicates corrected in #57. The [delivery check](https://zack-dev-cm.github.io/docs/oss-validation/#delivery) covers generated SQL; no database queries ran.
-
 ## Open proposals
-
-At the 14 October review, four proposals had failed upstream workflows, four awaited workflow approval, two had successful workflows and three had no upstream workflow run recorded for their submitted commits. [Checks and next steps](https://zack-dev-cm.github.io/docs/oss-validation/#status).
 
 - **Tesla · Camera Kit**: Proposed fixes for Android scan accuracy, resource leaks and camera reuse. **4 open PRs** · [#812](https://github.com/teslamotors/react-native-camera-kit/pull/812) [#813](https://github.com/teslamotors/react-native-camera-kit/pull/813) [#817](https://github.com/teslamotors/react-native-camera-kit/pull/817) [#816](https://github.com/teslamotors/react-native-camera-kit/pull/816)
 - **Astropy · reproject**: Proposed validation of inverse coordinates in image reprojection. **1 open PR** · [#630](https://github.com/astropy/reproject/pull/630) · [Playable coordinate lesson](https://zack-dev-cm.github.io/docs/contribution-lab/reproject.html)
@@ -27,10 +23,6 @@ At the 14 October review, four proposals had failed upstream workflows, four awa
 - **pydicom · Display & modality lookup tables**: Proposed overflow fixes for display and modality lookup-table indexing. **2 open PRs** · [#2378](https://github.com/pydicom/pydicom/pull/2378) [#2379](https://github.com/pydicom/pydicom/pull/2379) · [Playable display lookup](https://zack-dev-cm.github.io/docs/contribution-lab/pydicom.html)
 - **Unitree Robotics · Teleoperation & SDK**: Proposed teleoperation stop-call fix and DDS security documentation. **2 open PRs** · [#310](https://github.com/unitreerobotics/xr_teleoperate/pull/310) [#34](https://github.com/unitreerobotics/unitree_sdk2/pull/34)
 - **Open CLIP · CoCa example in lucidrains’ fork**: Proposed a corrected model-factory call in the CoCa text-generation example. **1 open PR** · [#2](https://github.com/lucidrains/open_clip/pull/2)
-
-## Independent validation
-
-Local checks prepared with Codex covered MuJoCo mesh signs and BlueOS recording exports. MuJoCo's correction belongs to `pranay172`; the work here validates the existing contribution. BlueOS's controlled export reproduction still needs an agreed production scope and closed-file policy. [Results, source revisions and limits](https://zack-dev-cm.github.io/docs/oss-validation/).
 
 <details>
 <summary>More merged contributions</summary>
