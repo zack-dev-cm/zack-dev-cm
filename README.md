@@ -6,21 +6,22 @@ I build computer vision and document AI software, from model development to depl
 
 [Portfolio](https://zack-dev-cm.github.io/) · [LinkedIn](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/) · [Email](mailto:kaisenaiko@gmail.com)
 
-The selected catalogue includes **17 merged PRs excluding one reverted change**, plus **13 open proposals**. [Full catalogue](https://zack-dev-cm.github.io/#contributed-to)
+The selected catalogue includes **17 merged PRs excluding one reverted change**, plus **13 open proposals and 1 draft**. [Full catalogue](https://zack-dev-cm.github.io/#contributed-to)
 
 ## Merged contributions
 
 - **Neuralink · datarepo:** Six merged fixes for query correctness, Python literals, credential refresh and packaging. [#73](https://github.com/neuralinkcorp/datarepo/pull/73) · [#74](https://github.com/neuralinkcorp/datarepo/pull/74) · [#68](https://github.com/neuralinkcorp/datarepo/pull/68) · [#67](https://github.com/neuralinkcorp/datarepo/pull/67) · [#57](https://github.com/neuralinkcorp/datarepo/pull/57) · [#59](https://github.com/neuralinkcorp/datarepo/pull/59). The documentation contribution [#58](https://github.com/neuralinkcorp/datarepo/pull/58) was reverted in [#72](https://github.com/neuralinkcorp/datarepo/pull/72).
-- **Unidata · netCDF4:** Fixed array dimensions when scientific-data selections are empty. [#1499](https://github.com/Unidata/netcdf4-python/pull/1499) · [Interactive shape lesson](https://zack-dev-cm.github.io/docs/contribution-lab/).
+- **Unidata · netCDF4:** Fixed array dimensions when scientific-data selections are empty. Included in the [1.7.5 source release](https://github.com/Unidata/netcdf4-python/releases/tag/v1.7.5rel). [#1499](https://github.com/Unidata/netcdf4-python/pull/1499) · [Interactive shape lesson](https://zack-dev-cm.github.io/docs/contribution-lab/).
 - **pydicom · Pixel encoding:** Preserved packed one-bit pixels from big-endian OW input during compression. [#2380](https://github.com/pydicom/pydicom/pull/2380).
 
 ## Open proposals
 
+- **HDTN · TCPCLv3 transport:** Draft fix for a stalled send pipeline when the peer does not request acknowledgments. Completion follows the local TCP write and preserves each bundle's metadata across reconnections. [Draft #78](https://github.com/nasa/HDTN/pull/78)
 - **Tesla · Camera Kit**: Proposed fixes for Android scan accuracy, resource leaks and camera reuse. **4 open PRs** · [#812](https://github.com/teslamotors/react-native-camera-kit/pull/812) [#813](https://github.com/teslamotors/react-native-camera-kit/pull/813) [#817](https://github.com/teslamotors/react-native-camera-kit/pull/817) [#816](https://github.com/teslamotors/react-native-camera-kit/pull/816)
 - **Astropy · reproject**: Proposed validation of inverse coordinates in image reprojection. **1 open PR** · [#630](https://github.com/astropy/reproject/pull/630) · [Playable coordinate lesson](https://zack-dev-cm.github.io/docs/contribution-lab/reproject.html)
 - **LSST DESC · CCL**: Proposed integration-range and quadrature fixes for cosmology calculations. **1 open PR** · [#1310](https://github.com/LSSTDESC/CCL/pull/1310)
 - **UNSW · Nempy**: Proposed corrections to battery dispatch inputs and Linux solver compatibility. **2 open PRs** · [#43](https://github.com/UNSW-CEEM/nempy/pull/43) [#44](https://github.com/UNSW-CEEM/nempy/pull/44)
-- **pydicom · Display & modality lookup tables**: Proposed overflow fixes for display and modality lookup-table indexing. **2 open PRs** · [#2378](https://github.com/pydicom/pydicom/pull/2378) [#2379](https://github.com/pydicom/pydicom/pull/2379) · [Playable display lookup](https://zack-dev-cm.github.io/docs/contribution-lab/pydicom.html)
+- **pydicom · Display & modality lookup tables**: Earlier overflow proposals. [SID-6921's merged #2382](https://github.com/pydicom/pydicom/pull/2382) covers the common cases; **2 PRs remain open**: [#2378](https://github.com/pydicom/pydicom/pull/2378) [#2379](https://github.com/pydicom/pydicom/pull/2379). [Playable display lookup](https://zack-dev-cm.github.io/docs/contribution-lab/pydicom.html)
 - **Unitree Robotics · Teleoperation & SDK**: Proposed teleoperation stop-call fix and DDS security documentation. **2 open PRs** · [#310](https://github.com/unitreerobotics/xr_teleoperate/pull/310) [#34](https://github.com/unitreerobotics/unitree_sdk2/pull/34)
 - **Open CLIP · CoCa example in lucidrains’ fork**: Proposed a corrected model-factory call in the CoCa text-generation example. **1 open PR** · [#2](https://github.com/lucidrains/open_clip/pull/2)
 
