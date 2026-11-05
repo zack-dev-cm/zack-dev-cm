@@ -6,11 +6,11 @@ I build computer vision and document AI software, from model development to depl
 
 [Portfolio](https://zack-dev-cm.github.io/) · [LinkedIn](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/) · [Email](mailto:kaisenaiko@gmail.com)
 
-The selected catalogue includes **17 merged PRs excluding one reverted change**, plus **13 open proposals and 1 draft**. [Full catalogue](https://zack-dev-cm.github.io/#contributed-to)
+The selected catalogue includes merged PRs, plus 13 open proposals. [Full catalogue](https://zack-dev-cm.github.io/#contributed-to)
 
 ## Merged contributions
 
-- **Neuralink · datarepo:** Six merged fixes for query correctness, Python literals, credential refresh and packaging. [#73](https://github.com/neuralinkcorp/datarepo/pull/73) · [#74](https://github.com/neuralinkcorp/datarepo/pull/74) · [#68](https://github.com/neuralinkcorp/datarepo/pull/68) · [#67](https://github.com/neuralinkcorp/datarepo/pull/67) · [#57](https://github.com/neuralinkcorp/datarepo/pull/57) · [#59](https://github.com/neuralinkcorp/datarepo/pull/59). The documentation contribution [#58](https://github.com/neuralinkcorp/datarepo/pull/58) was reverted in [#72](https://github.com/neuralinkcorp/datarepo/pull/72).
+- **Neuralink · datarepo:** Six merged fixes for query correctness, Python literals, credential refresh and packaging. [#73](https://github.com/neuralinkcorp/datarepo/pull/73) · [#74](https://github.com/neuralinkcorp/datarepo/pull/74) · [#68](https://github.com/neuralinkcorp/datarepo/pull/68) · [#67](https://github.com/neuralinkcorp/datarepo/pull/67) · [#57](https://github.com/neuralinkcorp/datarepo/pull/57) · [#59](https://github.com/neuralinkcorp/datarepo/pull/59).
 - **Unidata · netCDF4:** Fixed array dimensions when scientific-data selections are empty. Included in the [1.7.5 source release](https://github.com/Unidata/netcdf4-python/releases/tag/v1.7.5rel). [#1499](https://github.com/Unidata/netcdf4-python/pull/1499) · [Interactive shape lesson](https://zack-dev-cm.github.io/docs/contribution-lab/).
 - **pydicom · Pixel encoding:** Preserved packed one-bit pixels from big-endian OW input during compression. [#2380](https://github.com/pydicom/pydicom/pull/2380).
 
