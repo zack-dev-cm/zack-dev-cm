@@ -6,7 +6,7 @@ I build computer vision and document AI software, from model development to depl
 
 [Portfolio](https://zack-dev-cm.github.io/) · [LinkedIn](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/) · [Email](mailto:kaisenaiko@gmail.com)
 
-The selected catalogue includes merged PRs, plus 13 open proposals. [Full catalogue](https://zack-dev-cm.github.io/#contributed-to)
+The selected catalogue includes merged PRs, plus open proposals. [Full catalogue](https://zack-dev-cm.github.io/#contributed-to)
 
 ## Merged contributions
 
