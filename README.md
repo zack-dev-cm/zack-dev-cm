@@ -38,6 +38,7 @@ Selected contributions to public projects. [Full catalogue](https://zack-dev-cm.
 - **Open CLIP · CoCa example in lucidrains’ fork**: Proposed a corrected model-factory call in the CoCa text-generation example. [#2](https://github.com/lucidrains/open_clip/pull/2)
 - **GuidedSAM-Plume · Dataset export:** Proposed ImageFolder export for the released plume dataset. [#2](https://github.com/tad-damo/GuidedSAM-Plume/pull/2).
 - **VESIcal · Data import:** Proposed import warnings for unrecognized oxide headers, with guidance for checking extracted compositions. [#226](https://github.com/kaylai/VESIcal/pull/226).
+- **Thermobar · Olivine-liquid matching:** Proposed fix for missing temperature outputs in olivine-liquid matching, with checks for conflicting column names. [#57](https://github.com/PennyWieser/Thermobar/pull/57).
 - **CompTech · who-signed**: Adds Telegram photo intake and signature storage for a verification prototype. [#2](https://github.com/comptech-winter-school/who-signed/pull/2) [#3](https://github.com/comptech-winter-school/who-signed/pull/3)
 - **YParser · English documentation**: Makes image-collection setup and usage available in English. [#1](https://github.com/asromahin/yparser/pull/1)
 
